@@ -3,7 +3,7 @@
 Prototipo de una arquitectura distribuida de procesamiento de tareas. Cada nodo es un proceso con su puerto TCP y un pool de hilos. Un coordinador reparte el trabajo. Los nodos no se conocen entre sí.
 
 Curso: Arquitectura de Software, Unidad 2. Actividad: Tejiendo redes.
-Estudiante: Jhoan Alvarez (jhoan.alvarez214@pascualbravo.co). Trabajo individual.
+Estudiante: Jhoan Alvarez. Trabajo individual.
 
 ## Qué demuestra
 
